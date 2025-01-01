@@ -4,7 +4,7 @@ This folder contains all the data and scripts used for data generation and proce
 
 ## **Contents**
 - **`synthetic_data_generation.py`**: 
-  - Python script for generating synthetic stellar data, including light curves for different star types.
+  - Python script for generating synthetic stellar data for different star types.
   - The generated dataset is stored as `synthetic_star_dataset.csv`.
 
 - **`synthetic_star_dataset.csv`**: 
